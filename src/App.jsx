@@ -1,5 +1,4 @@
-import React from 'react'
-import Counter from './Components/Counter'
+
 import Navbar from './Components/Navbar'
 import Product from './Components/Product'
 import Cart from './Components/Cart'
