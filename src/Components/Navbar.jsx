@@ -13,7 +13,7 @@ const Navbar = () => {
             textDecoration:"none",
             color:'white'
         }}>
-          <h3>Shoping_Cart</h3>
+          <h3>Shop_Cart</h3>
           
         </Link>
         <div className="middle">

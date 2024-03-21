@@ -13,7 +13,7 @@ const Cart = () => {
     <>
       <ToastContainer />
 
-      <div className="container text-center my-5" style={{ width: "700px" }}>
+      <div className="container text-center my-5" style={{ width: "300px" }}>
         {cartItem.length == 0 && (
           <>
             <h1>Your Cart is Empty</h1>
@@ -27,7 +27,7 @@ const Cart = () => {
           <div key={item.id} className="container my-5">
             <div
               className="card mb-3 bg-dark text-light text-center"
-              style={{ width: "650px" }}
+              style={{ width: "250px" }}
             >
               <div className="row g-0">
                 <div className="col-md-4">
